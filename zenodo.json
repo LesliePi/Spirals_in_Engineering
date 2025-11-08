@@ -1,0 +1,26 @@
+{
+  "title": "Spirals in Engineering: A Unified Geometric Framework",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "This repository contains multilingual documentation, Python simulation modules, and visualizations for a spiral-based engineering framework. It introduces a unified coordinate system for mechanical, thermal, fluid, mass-transfer, and electrical domains.",
+  "creators": [
+    {
+      "name": "Tatai, László",
+      "orcid": "0009-0007-5153-6306"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "spiral coordinates",
+    "engineering",
+    "visualization",
+    "open science",
+    "simulation"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/laszlo/spiral-cavitation"
+    }
+  ]
+}
