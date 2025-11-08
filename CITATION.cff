@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Spirals in Engineering: A Unified Geometric Framework"
+authors:
+  - family-names: Tatai
+    given-names: László
+    orcid: https://orcid.org/0009-0007-5153-6306
+date-released: 2025-11-07
+version: 1.0.2
+doi: 10.5281/zenodo.XXXXXXX
+license: CC-BY-4.0
+repository-code: https://github.com/laszlo/spiral-cavitation
+keywords:
+  - spiral coordinates
+  - engineering
+  - visualization
+  - open science
+  - simulation
